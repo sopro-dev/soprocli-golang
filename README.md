@@ -1,4 +1,4 @@
-# sopro-proto
+# soprocli-golang
 
 grpc clients pre-compiled
 
